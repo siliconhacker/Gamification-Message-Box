@@ -1,3 +1,7 @@
+body {
+color: rgb(187, 53, 53);
+background-color: rgb(0, 0, 0);
+}
 #info {
 border: 1px solid;
 margin: 10px 0px;
