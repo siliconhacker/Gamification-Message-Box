@@ -1,0 +1,33 @@
+#info {
+border: 1px solid;
+margin: 10px 0px;
+padding:15px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+position:relative;
+color: #000000;
+background: rgba(179,220,237,1);
+background: -moz-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(5,241,245,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(179,220,237,1)), color-stop(50%, rgba(41,184,229,1)), color-stop(100%, rgba(5,241,245,1)));
+background: -webkit-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(5,241,245,1) 100%);
+background: -o-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(5,241,245,1) 100%);
+background: -ms-linear-gradient(left, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(5,241,245,1) 100%);
+background: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(5,241,245,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#05f1f5', GradientType=1 );
+border-radius: 30px 0px 10px 30px;
+-moz-border-radius: 30px 0px 10px 30px;
+-webkit-border-radius: 30px 0px 10px 30px;
+border: 4px solid #000000;
+-webkit-box-shadow: 15px 15px 10px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 15px 15px 10px 0px rgba(0,0,0,0.75);
+box-shadow: 15px 15px 10px 0px rgba(0,0,0,0.75);
+}
+.close {
+    color: #000000;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+    opacity: 0.2;
+    text-shadow: 0 1px 22px #625B2D;
+}
